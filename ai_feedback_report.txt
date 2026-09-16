@@ -1,0 +1,49 @@
+
+AI CUSTOMER FEEDBACK INTELLIGENCE REPORT
+========================================
+
+Total feedback analyzed: 6
+High-priority cases: 4
+
+Customer: Jordan
+Sentiment: POSITIVE
+Category: shipping
+Severity: LOW
+Summary: The customer reports that the order arrived early and the service was excellent.
+Recommended Action: Acknowledge the positive experience and encourage the customer to share additional feedback or shop again.
+------------------------------------------------------------
+Customer: Maya
+Sentiment: NEGATIVE
+Category: support responsiveness
+Severity: HIGH
+Summary: The customer reports repeated contact attempts to support without receiving any response.
+Recommended Action: Have support urgently follow up with the customer, acknowledge the missed messages, and resolve the issue promptly.
+------------------------------------------------------------
+Customer: Alex
+Sentiment: NEGATIVE
+Category: fraud
+Severity: HIGH
+Summary: The customer reports unrecognized purchases on their card, indicating potential unauthorized activity.
+Recommended Action: Immediately investigate the transactions, secure the card account, and guide the customer through dispute and fraud protection steps.
+------------------------------------------------------------
+Customer: Taylor
+Sentiment: NEGATIVE
+Category: checkout issue
+Severity: HIGH
+Summary: The app freezes during the checkout process, preventing the customer from completing a purchase.
+Recommended Action: Investigate and fix the freezing issue in the checkout flow as a priority, then verify the fix with regression testing.
+------------------------------------------------------------
+Customer: Morgan
+Sentiment: NEGATIVE
+Category: billing issue
+Severity: HIGH
+Summary: The customer was charged even after cancelling their subscription last month.
+Recommended Action: Investigate the cancellation and billing records, then issue a refund and confirm the subscription has been fully terminated.
+------------------------------------------------------------
+Customer: Sam
+Sentiment: NEUTRAL
+Category: setup
+Severity: LOW
+Summary: The product functions well, but the setup process was more confusing than expected.
+Recommended Action: Review and simplify the setup instructions or onboarding flow to make initial setup clearer.
+------------------------------------------------------------
